@@ -22,19 +22,19 @@ elif sayi1>sayi2 and sayi1>sayi3 and sayi1>sayi4:
     time.sleep(2)
     print('Checking the Numbers ...')
     time.sleep(3)
-    print('En Büyük Sayı ', sayi1)
+    print('Largest Number ', sayi1)
     if sayi2<sayi3 and sayi2<sayi4:
-        print('En Küçük Sayı ', sayi2)
+        print('Smallest Number ', sayi2)
         time.sleep(1.5)
-        print('Fark : ',sayi1-sayi2)
+        print('Difference : ',sayi1-sayi2)
     if sayi3<sayi2 and sayi3<sayi4:
-        print('En Küçük Sayı ', sayi3)
+        print('Smallest Number ', sayi3)
         time.sleep(1.5)
-        print('Fark : ',sayi1-sayi3)
+        print('Difference : ',sayi1-sayi3)
     if sayi4<sayi2 and sayi4<sayi3:
-        print('En Küçük Sayı ', sayi4)
+        print('Smallest Number ', sayi4)
         time.sleep(1.5)
-        print('Fark : ',sayi1-sayi4)
+        print('Difference : ',sayi1-sayi4)
 
 
 
@@ -43,60 +43,60 @@ elif sayi2>sayi1 and sayi2>sayi3 and sayi2>sayi4:
     time.sleep(2)
     print('Checking the Numbers ...')
     time.sleep(3)
-    print('En Büyük sayı ', sayi2)
+    print('Largest Number ', sayi2)
     if sayi1<sayi3 and sayi1<sayi4:
-        print('En Küçük Sayı ', sayi1)
+        print('Smallest Number ', sayi1)
         time.sleep(1.5)
-        print('Fark : ',sayi2-sayi1)
+        print('Difference : ',sayi2-sayi1)
     if sayi3<sayi1 and sayi3<sayi4:
-        print('En Küçük Sayı ', sayi3)
+        print('Smallest Number ', sayi3)
         time.sleep(1.5)
-        print('Fark : ',sayi2-sayi3)
+        print('Difference : ',sayi2-sayi3)
     if sayi4<sayi3 and sayi4<sayi1:
-        print('En Küçük Sayı ', sayi4)
+        print('Smallest Number ', sayi4)
         time.sleep(1.5)
-        print('Fark : ',sayi2-sayi4)
+        print('Difference : ',sayi2-sayi4)
 
 
 
 #######   THE RATIOS OF SAYİ3  #######
 elif sayi3>sayi1 and sayi3>sayi2 and sayi3>sayi4:
     time.sleep(2)
-    print('Sayılar Kontrol Ediliyor ...')
+    print('Checking the Numbers ...')
     time.sleep(3)
-    print('En Büyük Sayı ', sayi3)
+    print('Largest Number ', sayi3)
     if sayi1<sayi2 and sayi1<sayi4:
-        print('En Küçük Sayı', sayi1)
+        print('Smallest Number ', sayi1)
         time.sleep(1.5)
-        print('Fark : ',sayi3-sayi1)
+        print('Difference : ',sayi3-sayi1)
     if sayi2<sayi1 and sayi2<sayi4:
-        print('En Küçük Sayı', sayi2)
+        print('Smallest Number ', sayi2)
         time.sleep(1.5)
-        print('Fark : ',sayi3-sayi3)
+        print('Difference : ',sayi3-sayi3)
     if sayi4<sayi1 and sayi4<sayi2:
-        print('En Küçük Sayı', sayi4)
+        print('Smallest Number ', sayi4)
         time.sleep(1.5)
-        print('Fark : ',sayi3-sayi4)
+        print('Difference : ',sayi3-sayi4)
 
 
 #######   THE RATIOS OF SAYİ 4  #######
 elif sayi4>sayi1 and sayi4>sayi2 and sayi4>sayi3:
     time.sleep(2)
-    print('Sayılar Kontrol Ediliyor ...')
+    print('Checking the Numbers ...')
     time.sleep(3)
-    print('En Büyük Sayı ', sayi4)
+    print('Largest Number ', sayi4)
     if sayi1<sayi2 and sayi1<sayi3:
-        print('En Küçük Sayı', sayi1)
+        print('Smallest Number ', sayi1)
         time.sleep(1.5)
-        print('Fark : ',sayi4-sayi1)
+        print('Difference : ',sayi4-sayi1)
     if sayi2<sayi1 and sayi2<sayi3:
-        print('En Küçük Sayı', sayi2)
+        print('Smallest Number ', sayi2)
         time.sleep(1.5)
-        print('Fark : ',sayi4-sayi2)
+        print('Difference : ',sayi4-sayi2)
     if sayi3<sayi1 and sayi3<sayi2:
-        print('En Küçük Sayı', sayi3)
+        print('Smallest Number ', sayi3)
         time.sleep(1.5)
-        print('Fark : ',sayi4-sayi3)
+        print('Difference : ',sayi4-sayi3)
 
  
 
